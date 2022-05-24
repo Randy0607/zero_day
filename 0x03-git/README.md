@@ -1,1 +1,3 @@
-new directory
+new director
+
+read me updating
